@@ -8,3 +8,5 @@ File 1, Line 6 contains this original line
 File 1, Line 7 contains this original line
 File 1, Line 8 contains this original line
 File 1, Line 9 contains this original line
+
+Added line in new branch
