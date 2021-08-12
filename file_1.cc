@@ -10,3 +10,4 @@ File 1, Line 8 contains this original line
 File 1, Line 9 contains this original line
 
 Added line in new branch
+Added line in new branch_v2
